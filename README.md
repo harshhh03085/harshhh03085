@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Vishwakarma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align=“right”alt=“coding”width=“400”src=“![image](https://github.com/user-attachments/assets/502e0252-f370-4614-8a69-fdae1e132a05)
+<img align=“right” alt=“coding” width=“400” src=“![image](https://github.com/user-attachments/assets/502e0252-f370-4614-8a69-fdae1e132a05)
 ”>
 
 - 🌱 I’m currently learning **Amazon Web Services, Jenkin's**
